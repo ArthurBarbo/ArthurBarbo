@@ -22,18 +22,20 @@
 
 - [**Around**](https://github.com/ArthurBarbo/web_project_api_full) — Rede Social de Imagens  
   Projeto Full-Stack com React no Frontend e Node.js/Express no Backend.  
-  Permite que usuários criem contas, façam login com JWT, atualizem perfis, postem imagens, curtam e deletem conteúdos, e interajam com outros usuários.
+  Funcionalidades: cadastro e login com JWT, atualização de perfil, postagem de imagens, likes, deleção de conteúdo e interação entre usuários.
 
 - [**PowerSpot**](https://github.com/ArthurBarbo/PowerSpot) — Plataforma de Carros Elétricos  
   Projeto em desenvolvimento que integra dados de carros elétricos via API própria e API do Google.  
-  Fornece informações detalhadas sobre veículos elétricos, incluindo localização, especificações e dados em tempo real.
+  Funcionalidades: localização, especificações, dados em tempo real e integração inteligente de APIs.
+
+---
+
+## 🛠️ Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-oliveira&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Contato
 
 [LinkedIn](https://www.linkedin.com/in/arthur-barbosa-3519941ba/) | [E-mail](mailto:arthurbarbo177@gmail.com)
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-oliveira&show_icons=true&count_private=true&theme=radical&hide=contribs)
