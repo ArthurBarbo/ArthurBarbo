@@ -49,8 +49,3 @@ confira ele em produção aqui: **https://powerspot.allok.in/**
 [LinkedIn](https://www.linkedin.com/in/arthur-barbosa-3519941ba/)  
 [E-mail](mailto:arthurbarbo177@gmail.com)
 
----
-
-## 📊 Estatísticas do GitHub
-
-![GitHub Streak](https://streak-stats.demolab.com?user=arthur-oliveira&theme=github-dark&hide_border=true)
