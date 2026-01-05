@@ -36,7 +36,7 @@ Funcionalidades:
 
 ---
 
-### 🔹 [Projeto 2 – PowerSpot](https://github.com/ArthurBarbo/PowerSpot)  
+### 🔹 [Projeto 2 – PowerSpot](https://github.com/ArthurBarbo/PowerSpot-full)  
 ⚡ **PowerSpot — Plataforma de Carros Elétricos**  
 Projeto em finalizado que integra:
 - API própria  
