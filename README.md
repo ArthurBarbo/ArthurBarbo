@@ -36,12 +36,12 @@ Funcionalidades:
 
 ### 🔹 [Projeto 2 – PowerSpot](https://github.com/ArthurBarbo/PowerSpot)  
 ⚡ **PowerSpot — Plataforma de Carros Elétricos**  
-Projeto em desenvolvimento que integra:
+Projeto em finalizado que integra:
 - API própria  
 - API do Google  
 - Dados em tempo real sobre veículos elétricos  
 - Informações detalhadas, localização e especificações técnicas
-
+confira ele em produção aqui: **https://powerspot.allok.in/**
 ---
 
 ## 📫 Contato
@@ -53,4 +53,4 @@ Projeto em desenvolvimento que integra:
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-oliveira&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=arthur-oliveira&theme=github-dark&hide_border=true)
