@@ -43,7 +43,7 @@ Projeto em finalizado que integra:
 - API do Google  
 - Dados em tempo real sobre veículos elétricos  
 - Informações detalhadas, localização e especificações técnicas
-confira ele em produção aqui: **https://powerspot.allok.in/**
+- Colocado em Produção
 ---
 
 ## 📫 Contato
