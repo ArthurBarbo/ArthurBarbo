@@ -1,6 +1,6 @@
 # Olá, eu sou Arthur Oliveira 👋  
 
-💻 **Fullstack Developer | Node.js, React, Vite, JWT & MongoDB**  
+💻 **Fullstack Developer | Node.js, React/React-Native, Typescript, Vite, JWT & MongoDB**  
 🌐 Desenvolvedor apaixonado por tecnologias web modernas
 
 ---
@@ -19,6 +19,8 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
